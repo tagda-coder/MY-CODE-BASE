@@ -1,2 +1,2 @@
-hey we are back again 
-lets learn something new.
+This is My Learning of JS with Hitesh Choudary. 
+So you can definitel learn with this amazing guy.
