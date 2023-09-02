@@ -1,1 +1,0 @@
-alert("NEXT2.js")
