@@ -12,4 +12,6 @@
 // console.log("02" > 1);
 
 console.log("2" === 2);
+//this will give you false bcoz there data types is different. and === help you to check the expression with datatypes. 
+
 
