@@ -20,3 +20,12 @@ console.log(allHeros);
 OUTPUT: 
 [ 'SPIDER MAN', 'IRON MAN', 'THOR', 'SUPER HERO', 'FLASH', 'BATMAN' ] 
 */
+
+// flat method()
+const another_array = [1,2,3,4,[5,6,7], [8,9,10,[11,12,13]]]
+const real_array = another_array.flat(Infinity) //Infinity means depth of the array you want to combine, place of infinity you can give some number. 
+console.log(real_array);
+/*
+Output : 
+[1, 2, 3,  4,  5,  6, 7, 8, 9, 10, 11, 12, 13]
+*/
