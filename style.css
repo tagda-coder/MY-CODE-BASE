@@ -21,7 +21,10 @@ h1{
     -webkit-text-stroke-color: rgb(0, 0, 0);
 
 }
-h1 span{
-    /* color: white; */
-    
+
+table, tr, th, td{
+    border: 2px solid black;
+}
+th{
+    background-color: cyan;
 }

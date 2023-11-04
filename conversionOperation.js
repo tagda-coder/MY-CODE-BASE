@@ -1,10 +1,10 @@
-let score = "Mandeep";
+let client = "Mandeep";
 
 // console.log(typeof score);
 // console.log(typeof(score));
 
 // change score value which is String into Number.
-let valueInNumber = Number(score);
+let valueInNumber = Number(client);
 // console.log(typeof valueInNumber);
 // console.log(typeof(valueInNumber));
 
